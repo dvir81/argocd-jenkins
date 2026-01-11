@@ -1,0 +1,5 @@
+controller:
+  serviceType: NodePort
+  servicePort: 8080
+  nodePort: 30080  # Optional: manually set a port in the 30000-32767 range
+
